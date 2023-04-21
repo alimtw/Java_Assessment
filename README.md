@@ -7,7 +7,7 @@ This project give alot of real commercial requirement and lots of thinking on th
 
 ●	What did you struggle with in this project? \n
 
-Could not debug even on the register of the student that is not store into the HashMap student Object. Thus, unable to test whether the rest of the options are working or not. Nevertheless, have tried to code based on the requirement without test. Also, very confusing with many class object. Seeing so many red line on the editor does not know how to approach it. Got mentally drained, stressed and lost as differ from my knowledged.
+Could not debug even on the register of the student that is not store into the HashMap student Object. Feel demolised as unable to test whether the rest of the options are working or not. Nevertheless, have tried to code based on the requirement without test. Also, very confusing with many class object. Seeing so many red line on the editor does not know how to approach it. Got mentally drained, stressed and lost as differ from my knowledged.
 
 ●	What would make your experience with this assessment better?
 
